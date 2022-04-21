@@ -9,9 +9,11 @@ The example libergo code was copied from https://github.com/anon-real/ErgoAuctio
 about using libergo.
 
 # How to use
-Install dependencies - `npm install`
-Run Server           - `npm start run:dev`
+Install dependencies  
+`npm install`  
 
+Start server on port 3000  
+`npm start run:dev`  
 
 Add new endpoints to `src/app.js` that interact with libergo.
 Hit this server locally with your main application.
