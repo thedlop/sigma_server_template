@@ -13,7 +13,7 @@ Install dependencies
 `npm install`  
 
 Start server on port 3000  
-`npm start run:dev`  
+`npm run start:dev`  
 
 Add new endpoints to `src/app.js` that interact with libergo.
 Hit this server locally with your main application.
